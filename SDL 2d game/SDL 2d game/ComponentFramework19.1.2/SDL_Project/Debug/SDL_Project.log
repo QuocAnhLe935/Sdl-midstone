@@ -1,0 +1,25 @@
+﻿  Ball.cpp
+  base.cpp
+  Body.cpp
+  Collision.cpp
+  GameManager.cpp
+  JetSki.cpp
+  Main.cpp
+  Map2.cpp
+  MMath.cpp
+  player.cpp
+C:\Users\Tini\Desktop\SDL 2d game\SDL 2d game\ComponentFramework19.1.2\SDL_Project\player.cpp(61,10): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Tini\Desktop\SDL 2d game\SDL 2d game\ComponentFramework19.1.2\SDL_Project\player.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+  realPlayer.cpp
+  Scene0.cpp
+C:\Users\Tini\Desktop\SDL 2d game\SDL 2d game\ComponentFramework19.1.2\SDL_Project\Scene0.cpp(164,11): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Tini\Desktop\SDL 2d game\SDL 2d game\ComponentFramework19.1.2\SDL_Project\Scene0.cpp(166,21): warning C4018: '<': signed/unsigned mismatch
+  Scene1.cpp
+  Scene2.cpp
+  Scene3.cpp
+  Tile.cpp
+  Timer.cpp
+  VMath.cpp
+  Window.cpp
+  Generating Code...
+  SDL_Project.vcxproj -> C:\Users\Tini\Desktop\SDL 2d game\SDL 2d game\ComponentFramework19.1.2\Debug\SDL_Project.exe
