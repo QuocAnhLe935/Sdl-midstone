@@ -30,7 +30,7 @@ bool Scene3::OnCreate() {
 		std::cout << "Failed to load enemy.bmp!" << std::endl;
 	}
 
-	image = IMG_Load("tile.PNG");
+	image = IMG_Load("tile33.PNG");
 	if (!image) {
 		std::cout << "Failed to load TileSheet_01.png!" << std::endl;
 	}
